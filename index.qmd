@@ -1,0 +1,21 @@
+---
+title: "Welcome to My Website"
+author: "Manjari Kannan"
+date: "2026-03-18"
+format:
+  html:
+    theme: journal
+    toc: true
+---
+
+# Hello, World!
+
+Welcome to my Quarto website.
+
+## About Me
+I am a graduate student at Boston University studying Applied Business Analytics.
+
+## Projects
+- EC2 setup lab
+- Data analytics work
+- Machine learning projects
