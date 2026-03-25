@@ -10,6 +10,12 @@ format:
 
 I’m a graduate student at Boston University studying Applied Business Analytics.
 
+## PySpark Test
+
+```{python}
+print("PySpark environment is working on EC2")
+```
+
 ## 🔍 Interests
 - Data Analytics
 - Machine Learning
