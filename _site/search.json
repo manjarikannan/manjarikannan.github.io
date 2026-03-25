@@ -9,22 +9,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to My Website",
+    "title": "Manjari Kannan",
     "section": "",
-    "text": "Welcome to my Quarto website.\n\n\nI am a graduate student at Boston University studying Applied Business Analytics.\n\n\n\n\nEC2 setup lab\nData analytics work\nMachine learning projects"
+    "text": "I’m a graduate student at Boston University studying Applied Business Analytics.\n\n\n\nprint(\"PySpark environment is working on EC2\")\n\nPySpark environment is working on EC2\n\n\n\n\n\n\nData Analytics\nMachine Learning\nMarketing Strategy\n\n\n\n\n\nEC2 setup lab\n\nData analytics work\n\nMachine learning projects\n\n\n\n\nFeel free to reach out!\n\n💼 LinkedIn\n✉️ Email"
   },
   {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Welcome to My Website",
+    "objectID": "index.html#pyspark-test",
+    "href": "index.html#pyspark-test",
+    "title": "Manjari Kannan",
     "section": "",
-    "text": "I am a graduate student at Boston University studying Applied Business Analytics."
+    "text": "print(\"PySpark environment is working on EC2\")\n\nPySpark environment is working on EC2"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Manjari Kannan",
+    "section": "",
+    "text": "Data Analytics\nMachine Learning\nMarketing Strategy"
   },
   {
     "objectID": "index.html#projects",
     "href": "index.html#projects",
-    "title": "Welcome to My Website",
+    "title": "Manjari Kannan",
     "section": "",
-    "text": "EC2 setup lab\nData analytics work\nMachine learning projects"
+    "text": "EC2 setup lab\n\nData analytics work\n\nMachine learning projects"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Manjari Kannan",
+    "section": "",
+    "text": "Feel free to reach out!\n\n💼 LinkedIn\n✉️ Email"
   }
 ]
