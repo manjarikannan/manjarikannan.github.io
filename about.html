@@ -89,7 +89,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./#about"> 
+    <a class="nav-link active" href="./about.html" aria-current="page"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
@@ -137,48 +137,37 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="page-hero">
-<p class="section-label">
-About
-</p>
-<h1 class="page-title">
-Manjari Kannan
-</h1>
+  <p class="section-label">About</p>
+  <h1 class="page-title">Manjari Kannan</h1>
 </div>
+
 <div class="page-body">
-<div class="about-grid fade-in">
-<pre><code>&lt;img src="profile.png" alt="Manjari Kannan" class="about-photo"&gt;
-&lt;div class="about-bio"&gt;
-  &lt;p&gt;I'm a graduate student at Boston University pursuing an MS in Applied Business Analytics at the Questrom School of Business (2024–2026).&lt;/p&gt;
-  &lt;p&gt;My work sits at the intersection of data science, marketing strategy, and business decision-making. I'm especially interested in how machine learning and analytics can drive smarter marketing decisions — from customer segmentation and churn prediction to marketing mix modeling and campaign attribution.&lt;/p&gt;
-  &lt;p&gt;I'm skilled in Python, R, SQL, Tableau, PySpark, and AWS, and I enjoy building end-to-end analytics workflows that translate complex data into clear, actionable insights.&lt;/p&gt;
-  &lt;p&gt;Outside of coursework and projects, I'm interested in marketing analytics, consumer behavior, and the intersection of data and strategy in growth-stage companies.&lt;/p&gt;
-&lt;/div&gt;</code></pre>
+
+  <div class="about-grid fade-in">
+    <img src="profile.png" alt="Manjari Kannan" class="about-photo">
+    <div class="about-bio">
+      <p>I'm a graduate student at Boston University pursuing an MS in Applied Business Analytics at the Questrom School of Business (2024–2026).</p>
+      <p>My work sits at the intersection of data science, marketing strategy, and business decision-making. I'm especially interested in how machine learning and analytics can drive smarter marketing decisions — from customer segmentation and churn prediction to marketing mix modeling and campaign attribution.</p>
+      <p>I'm skilled in Python, R, SQL, Tableau, PySpark, and AWS, and I enjoy building end-to-end analytics workflows that translate complex data into clear, actionable insights.</p>
+      <p>Outside of coursework and projects, I'm interested in marketing analytics, consumer behavior, and the intersection of data and strategy in growth-stage companies.</p>
+    </div>
+  </div>
+
+  <div class="fade-in" style="margin-top:6rem">
+    <p class="section-label" style="margin-bottom:2rem">Skills &amp; Tools</p>
+    <ul class="skills-list">
+      <li>Python</li>
+      <li>R</li>
+      <li>SQL</li>
+      <li>Tableau</li>
+      <li>PySpark</li>
+      <li>AWS</li>
+      <li>Machine Learning</li>
+      <li>Marketing Analytics</li>
+    </ul>
+  </div>
+
 </div>
-<div class="fade-in" style="margin-top: 6rem;">
-<pre><code>&lt;p class="section-label" style="margin-bottom: 2rem;"&gt;Skills &amp; Tools&lt;/p&gt;
-&lt;ul class="skills-list"&gt;
-  &lt;li&gt;Python&lt;/li&gt;
-  &lt;li&gt;R&lt;/li&gt;
-  &lt;li&gt;SQL&lt;/li&gt;
-  &lt;li&gt;Tableau&lt;/li&gt;
-  &lt;li&gt;PySpark&lt;/li&gt;
-  &lt;li&gt;AWS&lt;/li&gt;
-  &lt;li&gt;Machine Learning&lt;/li&gt;
-  &lt;li&gt;Marketing Analytics&lt;/li&gt;
-&lt;/ul&gt;</code></pre>
-</div>
-</div>
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-  const els = document.querySelectorAll('.fade-in');
-  const obs = new IntersectionObserver(function (entries) {
-    entries.forEach(function (e) {
-      if (e.isIntersecting) { e.target.classList.add('visible'); obs.unobserve(e.target); }
-    });
-  }, { threshold: 0.1 });
-  els.forEach(function (el) { obs.observe(el); });
-});
-</script>
 
 
 
@@ -601,6 +590,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var els = document.querySelectorAll('.fade-in');
+  var obs = new IntersectionObserver(function (entries) {
+    entries.forEach(function (e) {
+      if (e.isIntersecting) {
+        e.target.classList.add('visible');
+        obs.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.1 });
+  els.forEach(function (el) { obs.observe(el); });
+});
+</script>
 
 
 

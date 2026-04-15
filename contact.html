@@ -89,7 +89,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./#about"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
@@ -137,59 +137,48 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="page-hero">
-<p class="section-label">
-Contact
-</p>
-<h1 class="page-title">
-Get in touch.
-</h1>
+  <p class="section-label">Contact</p>
+  <h1 class="page-title">Get in touch.</h1>
 </div>
+
 <div class="page-body">
-<div class="contact-links fade-in">
-<pre><code>&lt;div class="contact-link-item"&gt;
-  &lt;span class="contact-link-label"&gt;Email&lt;/span&gt;
-  &lt;span class="contact-link-value"&gt;&lt;a href="mailto:manjari.kannan@gmail.com"&gt;manjari.kannan@gmail.com&lt;/a&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class="contact-link-item"&gt;
-  &lt;span class="contact-link-label"&gt;LinkedIn&lt;/span&gt;
-  &lt;span class="contact-link-value"&gt;&lt;a href="https://www.linkedin.com/in/manjarikannan" target="_blank"&gt;linkedin.com/in/manjarikannan&lt;/a&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class="contact-link-item"&gt;
-  &lt;span class="contact-link-label"&gt;GitHub&lt;/span&gt;
-  &lt;span class="contact-link-value"&gt;&lt;a href="https://github.com/manjarikannan" target="_blank"&gt;github.com/manjarikannan&lt;/a&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class="contact-link-item"&gt;
-  &lt;span class="contact-link-label"&gt;Location&lt;/span&gt;
-  &lt;span class="contact-link-value"&gt;Boston, MA&lt;/span&gt;
-&lt;/div&gt;</code></pre>
-</div>
-<div class="contact-form fade-in">
-<pre><code>&lt;p class="section-label" style="margin-bottom: 2rem;"&gt;Send a message&lt;/p&gt;
-&lt;form action="https://formspree.io/f/PLACEHOLDER" method="POST"&gt;
-  &lt;label for="name"&gt;Name&lt;/label&gt;
-  &lt;input type="text" id="name" name="name" placeholder="Your name" required&gt;
 
-  &lt;label for="email"&gt;Email&lt;/label&gt;
-  &lt;input type="email" id="email" name="email" placeholder="your@email.com" required&gt;
+  <div class="contact-links fade-in">
+    <div class="contact-link-item">
+      <span class="contact-link-label">Email</span>
+      <span class="contact-link-value"><a href="mailto:manjari.kannan@gmail.com">manjari.kannan@gmail.com</a></span>
+    </div>
+    <div class="contact-link-item">
+      <span class="contact-link-label">LinkedIn</span>
+      <span class="contact-link-value"><a href="https://www.linkedin.com/in/manjarikannan" target="_blank">linkedin.com/in/manjarikannan</a></span>
+    </div>
+    <div class="contact-link-item">
+      <span class="contact-link-label">GitHub</span>
+      <span class="contact-link-value"><a href="https://github.com/manjarikannan" target="_blank">github.com/manjarikannan</a></span>
+    </div>
+    <div class="contact-link-item">
+      <span class="contact-link-label">Location</span>
+      <span class="contact-link-value">Boston, MA</span>
+    </div>
+  </div>
 
-  &lt;label for="message"&gt;Message&lt;/label&gt;
-  &lt;textarea id="message" name="message" rows="6" placeholder="What's on your mind?" required&gt;&lt;/textarea&gt;
+  <div class="contact-form fade-in">
+    <p class="section-label" style="margin-bottom:2rem">Send a message</p>
+    <form action="https://formspree.io/f/PLACEHOLDER" method="POST">
+      <label for="cf-name">Name</label>
+      <input type="text" id="cf-name" name="name" placeholder="Your name" required="">
 
-  &lt;button type="submit"&gt;Send Message&lt;/button&gt;
-&lt;/form&gt;</code></pre>
+      <label for="cf-email">Email</label>
+      <input type="email" id="cf-email" name="email" placeholder="your@email.com" required="">
+
+      <label for="cf-message">Message</label>
+      <textarea id="cf-message" name="message" rows="6" placeholder="What's on your mind?" required=""></textarea>
+
+      <button type="submit">Send Message</button>
+    </form>
+  </div>
+
 </div>
-</div>
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-  const els = document.querySelectorAll('.fade-in');
-  const obs = new IntersectionObserver(function (entries) {
-    entries.forEach(function (e) {
-      if (e.isIntersecting) { e.target.classList.add('visible'); obs.unobserve(e.target); }
-    });
-  }, { threshold: 0.1 });
-  els.forEach(function (el) { obs.observe(el); });
-});
-</script>
 
 
 
@@ -612,6 +601,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var els = document.querySelectorAll('.fade-in');
+  var obs = new IntersectionObserver(function (entries) {
+    entries.forEach(function (e) {
+      if (e.isIntersecting) {
+        e.target.classList.add('visible');
+        obs.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.1 });
+  els.forEach(function (el) { obs.observe(el); });
+});
+</script>
 
 
 
