@@ -39,7 +39,7 @@
     "href": "contact.html",
     "title": "Contact — Manjari Kannan",
     "section": "",
-    "text": "Get In Touch\n\nContact\nI’d love to hear from you\n\n\n\n\nContact Information\n\n\n✉️\n\n\nEmail\nmanjari.kannan@gmail.com\n\n\n\n\n🔗\n\n\nLinkedIn\nlinkedin.com/in/manjarikannan\n\n\n\n\n🐙\n\n\nGitHub\nGitHub Profile\n\n\n\n\n📍\n\n\nLocation\nBoston, MA\n\n\n\n\nSend a Message\n\n\n&lt;label for=\"cf-name\"&gt;Name&lt;/label&gt;\n&lt;input type=\"text\" id=\"cf-name\" name=\"name\" class=\"form-control\" placeholder=\"Your full name\" required&gt;\n\n\n&lt;label for=\"cf-email\"&gt;Email&lt;/label&gt;\n&lt;input type=\"email\" id=\"cf-email\" name=\"email\" class=\"form-control\" placeholder=\"your@email.com\" required&gt;\n\n\n&lt;label for=\"cf-subject\"&gt;Subject&lt;/label&gt;\n&lt;input type=\"text\" id=\"cf-subject\" name=\"subject\" class=\"form-control\" placeholder=\"What's this about?\"&gt;\n\n\n&lt;label for=\"cf-message\"&gt;Message&lt;/label&gt;\n&lt;textarea id=\"cf-message\" name=\"message\" class=\"form-control\" rows=\"6\" placeholder=\"Tell me about your project or inquiry...\" required&gt;&lt;/textarea&gt;\n\n\nSend Message →"
+    "text": "Get In Touch\n\nContact\nI’d love to hear from you\n\n\n\n\nContact Information\n\n\n✉️\n\n\nEmail\nmanjari.kannan@gmail.com\n\n\n\n\n🔗\n\n\nLinkedIn\nlinkedin.com/in/manjarikannan\n\n\n\n\n🐙\n\n\nGitHub\nGitHub Profile\n\n\n\n\n📍\n\n\nLocation\nBoston, MA\n\n\n\n\nSend a Message\n\n  \n    Name\n    \n  \n  \n    Email\n    \n  \n  \n    Subject\n    \n  \n  \n    Message\n    \n  \n  \n    Send Message →"
   },
   {
     "objectID": "cv.html",
