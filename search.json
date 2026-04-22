@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About — Manjari Kannan",
+    "section": "",
+    "text": "Professional Profile\n\n\nGraduate student in Applied Business Analytics at Boston University"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About — Manjari Kannan",
+    "section": "About Me",
+    "text": "About Me\nI am a graduate student at Boston University pursuing my MS in Applied Business Analytics. I previously earned my BBA from the UMass Amherst Isenberg School of Management with a concentration in Information Systems and an IT minor.\nI am deeply interested in how data and analytics can drive smarter marketing and business decisions. My academic foundation combines quantitative methods with strategic thinking, giving me a unique perspective at the intersection of technology and business."
+  },
+  {
+    "objectID": "about.html#skills-expertise",
+    "href": "about.html#skills-expertise",
+    "title": "About — Manjari Kannan",
+    "section": "Skills & Expertise",
+    "text": "Skills & Expertise\n\nAnalytics & Data\n\nSQL Python Power BI Tableau Excel (VBA/Macros) Alteryx JMP\n\n\n\nTools & Platforms\n\nMicrosoft Suite Google Workspace SAP ERP Adobe Canva\n\n\n\nMethods\n\nMarketing Analytics Social Media Analytics Performance Tracking Enterprise Risk Analytics\n\n\n\nProject & Ops\n\nPortfolio Management Pipeline Management Process Documentation Cross-functional Collaboration Stakeholder Communication"
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About — Manjari Kannan",
+    "section": "Interests",
+    "text": "Interests\n\n\n\n📈\n\nMarketing Analytics\n\n\n\n🎯\n\nData Strategy\n\n\n\n📊\n\nBusiness Intelligence\n\n\n\n☁️\n\nCloud Computing"
+  },
+  {
+    "objectID": "about.html#career-goals",
+    "href": "about.html#career-goals",
+    "title": "About — Manjari Kannan",
+    "section": "Career Goals",
+    "text": "Career Goals\nI aspire to build a career at the intersection of data strategy and marketing intelligence, helping organizations leverage their data assets to create competitive advantage. My goal is to contribute to teams that are transforming how businesses understand their customers and optimize their decisions through analytics.\nI’m particularly drawn to roles in business intelligence, data strategy, and marketing analytics — where analytical rigor meets creative problem-solving. I’m actively seeking opportunities that allow me to apply my technical skills to real-world business challenges."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact — Manjari Kannan",
+    "section": "",
+    "text": "Get In Touch\n\nContact\nI’d love to hear from you\n\n\n\n\nContact Information\n\n\n✉️\n\n\nEmail\nmanjari.kannan@gmail.com\n\n\n\n\n🔗\n\n\nLinkedIn\nlinkedin.com/in/manjarikannan\n\n\n\n\n🐙\n\n\nGitHub\nGitHub Profile\n\n\n\n\n📍\n\n\nLocation\nBoston, MA\n\n\n\n\nSend a Message\n\n\n&lt;label for=\"cf-name\"&gt;Name&lt;/label&gt;\n&lt;input type=\"text\" id=\"cf-name\" name=\"name\" class=\"form-control\" placeholder=\"Your full name\" required&gt;\n\n\n&lt;label for=\"cf-email\"&gt;Email&lt;/label&gt;\n&lt;input type=\"email\" id=\"cf-email\" name=\"email\" class=\"form-control\" placeholder=\"your@email.com\" required&gt;\n\n\n&lt;label for=\"cf-subject\"&gt;Subject&lt;/label&gt;\n&lt;input type=\"text\" id=\"cf-subject\" name=\"subject\" class=\"form-control\" placeholder=\"What's this about?\"&gt;\n\n\n&lt;label for=\"cf-message\"&gt;Message&lt;/label&gt;\n&lt;textarea id=\"cf-message\" name=\"message\" class=\"form-control\" rows=\"6\" placeholder=\"Tell me about your project or inquiry...\" required&gt;&lt;/textarea&gt;\n\n\nSend Message →"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV — Manjari Kannan",
+    "section": "",
+    "text": "Resume\n\n\nEducation, experience, and leadership"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV — Manjari Kannan",
+    "section": "🎓 Education",
+    "text": "🎓 Education\n\n\n\n\n\n\nBoston University\nMS Applied Business Analytics\nSeptember 2025 – May 2026\nCoursework in business analytics, quantitative methods, data management, and strategic decision-making.\n\n\n\n\n\n\n\nUMass Amherst — Isenberg School of Management\nBBA, Operations & Information Management (IS Concentration) · IT Minor\nAugust 2021 – May 2025\nConcentration in Information Systems with an interdisciplinary focus on enterprise technology, data management, and organizational processes."
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV — Manjari Kannan",
+    "section": "💼 Experience",
+    "text": "💼 Experience\n\n\n\n\n\n\nSpectra Automation Solutions\nData Analyst Intern\nSummer 2023 – Winter 2025\nAudited health insurance claims datasets for accuracy and compliance. Built Power BI dashboards to surface key operational metrics and integrated cross-functional data sources for unified reporting across departments.\n\n\n\n\n\n\n\nThe Global Tech Experience\nSQL and Python Trainee\nSummer 2023\nApplied SQL and Python for data analysis and transformation tasks. Created Tableau dashboards to communicate findings, and collaborated with a globally distributed team on data-driven projects.\n\n\n\n\n\n\n\nHero Cosmetics\nStudent Brand Ambassador\nSpring 2024\nCoordinated 25+ campus ambassadors nationwide, tracked engagement metrics across channels, and generated 5,000+ total engagements through coordinated campus campaigns.\n\n\n\n\n\n\n\nUMass OIM Department\nStudent Worker\nSpring 2023\nManaged data requests for the Operations & Information Management department, conducted alumni engagement queries, and built structured reports to support departmental initiatives."
+  },
+  {
+    "objectID": "cv.html#leadership",
+    "href": "cv.html#leadership",
+    "title": "CV — Manjari Kannan",
+    "section": "🏆 Leadership",
+    "text": "🏆 Leadership\n\n\n\n\n\n\nAsian American Student Association\nSenior Advisor (2024–2025) · Treasurer (2023–2024) · Activities Coordinator: Sponsorship (2022–2024) · Social Coordinator (2022–2023)\n2022 – 2025\nManaged a $90K annual budget as Treasurer, overseeing financial planning and allocation. Maintained a 1,000+ contact portfolio supporting events with 2,000+ attendees. Advised the 700+ member organization in a senior leadership capacity during the final year."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects — Manjari Kannan",
+    "section": "",
+    "text": "Portfolio\n\nProjects\nA showcase of my data analytics and business intelligence work\n\n\n\n\n\n\n\n☁️\n\n\nCloud Analytics Lab\nConfigured an end-to-end cloud analytics pipeline on AWS EC2, demonstrating data ingestion with PySpark, storage in S3, and interactive visualization. Focused on scalable architecture and fully reproducible workflows deployed via Linux.\n\nAWS EC2 Python PySpark S3 Linux\n\n\nGitHub\n\n\n\n\n\n📉\n\n\nCustomer Churn Predictor\nBuilt a machine learning classification model to identify at-risk customers with 88% accuracy. Implemented SHAP values for model explainability and created an interactive Tableau dashboard to surface insights for non-technical stakeholders.\n\nPython scikit-learn SHAP Tableau SQL\n\n\nGitHub\n\n\n\n\n\n📊\n\n\nMarketing Mix Model\nDeveloped a statistical model to analyze the ROI of marketing channels using regression analysis and time-series decomposition. Results enabled a 15% reallocation of budget toward higher-performing channels.\n\nPython R Power BI Excel Alteryx\n\n\nGitHub\n\n\n\n\n\n📋\n\n\nSales Dashboard\nDesigned a comprehensive sales performance dashboard in Power BI integrating data from SAP ERP and CRM systems. Automated weekly reporting reduced manual effort by 6 hours per week for the sales team.\n\nPower BI SAP ERP SQL DAX Excel\n\n\nGitHub"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Manjari Kannan — Portfolio",
+    "section": "",
+    "text": "Portfolio · 2026\n\n\n\n\nBusiness Analytics · Data Strategy · Marketing Intelligence\n\n\nView Projects About Me"
+  },
+  {
+    "objectID": "index.html#recent-projects",
+    "href": "index.html#recent-projects",
+    "title": "Manjari Kannan — Portfolio",
+    "section": "Recent Projects",
+    "text": "Recent Projects\nA selection of data analytics and business intelligence projects."
+  },
+  {
+    "objectID": "index.html#turning-data-into-decisions",
+    "href": "index.html#turning-data-into-decisions",
+    "title": "Manjari Kannan — Portfolio",
+    "section": "Turning Data into Decisions",
+    "text": "Turning Data into Decisions\nI’m a graduate student at Boston University pursuing my MS in Applied Business Analytics. I hold a BBA from UMass Amherst’s Isenberg School of Management with a concentration in Information Systems.\nI’m passionate about the intersection of data analytics and marketing strategy — using evidence-based insights to drive smarter business decisions and measurable impact.\nRead More About Me"
+  },
+  {
+    "objectID": "index.html#ready-to-collaborate",
+    "href": "index.html#ready-to-collaborate",
+    "title": "Manjari Kannan — Portfolio",
+    "section": "Ready to collaborate?",
+    "text": "Ready to collaborate?\nWhether you’re looking for a data-driven analyst or want to discuss a project, I’d love to hear from you.\n\nContact Me View CV"
+  }
+]
